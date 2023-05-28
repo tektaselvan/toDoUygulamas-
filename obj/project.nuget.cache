@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3qyxwxJIr1LZwvsS62jsnC7f2PeuAbAiFvKjgmrDWj97YY75GePXt3wDSTe5bXA38c96UA6ASNeXKZFn54IIw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\tekta\\OneDrive\\Masaüstü\\toDoUygulaması\\toDoUygulaması.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
